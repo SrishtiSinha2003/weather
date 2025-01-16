@@ -17,3 +17,13 @@ To run this project, you need to have the following installed:
 
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
+
+**Contributing**
+
+If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+
+- Fork the repository
+- Create a feature branch: git checkout -b feature/YourFeature
+- Commit your changes: git commit -m 'Add some feature'
+- Push to the branch: git push origin feature/YourFeature
+- Open a pull request
