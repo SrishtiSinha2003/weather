@@ -18,6 +18,10 @@ To run this project, you need to have the following installed:
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
 
+### Acknowledgments
+- OpenWeatherMap for providing the weather data.
+- React community for amazing documentation and tools.
+
 **Contributing**
 
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
