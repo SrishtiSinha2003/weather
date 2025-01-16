@@ -18,6 +18,15 @@ To run this project, you need to have the following installed:
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
 
+### API Integration
+
+This weather app uses an external weather API. You need to provide an API key from a service like OpenWeatherMap to fetch weather data.
+
+- Create a .env file in the root of your project.
+
+- Add your API key in the .env file:
+  
+
 ### Acknowledgments
 - OpenWeatherMap for providing the weather data.
 - React community for amazing documentation and tools.
