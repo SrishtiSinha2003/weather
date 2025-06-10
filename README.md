@@ -10,7 +10,6 @@ A simple weather application built with React.js that allows users to check the 
 - **Weather Details:** Displays current temperature, humidity, wind speed, and weather description.
 - **User-Friendly Interface:** Simple and clean design for easy navigation.
 
-
 ### Prerequisites
 
 To run this project, you need to have the following installed:
